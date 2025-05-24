@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy **Rodrigo Barrera**, ingeniero estadístico y doctorando en estadística. Me especializo en **inferencia causal**, **modelos multivariados** y desarrollo de **herramientas computacionales** en R, Python y Stata.
+Soy **Rodrigo Barrera**, ingeniero estadístico, magister en filosofía de las ciencias y doctorando en estadística. Me especializo en **inferencia causal**, **modelos multivariados** y desarrollo de **herramientas computacionales** en R, Python y Stata.
 
 ---
 
