@@ -33,8 +33,4 @@ Soy **Rodrigo Barrera**, ingeniero estadístico y doctorando en estadística. Me
 - **Documentación**: LaTeX (Beamer, TikZ), RMarkdown
 - **Control de versiones**: Git y GitHub Actions
 
----
 
-## 🐍 Actividad reciente
-
-![Snake animation](https://raw.githubusercontent.com/barrerag87/barrerag87/output/github-contribution-grid-snake.svg)
