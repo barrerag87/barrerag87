@@ -2,6 +2,8 @@
 
 Soy **Rodrigo Barrera**, ingeniero estadístico, magister en filosofía de las ciencias y doctorando en estadística. Me especializo en **inferencia causal**, **modelos multivariados** y desarrollo de **herramientas computacionales** en R, Python y Stata.
 
+Me puedes escribir a ribg1987 [at] proton.me
+
 ---
 
 ## 🚀 Sobre mí
