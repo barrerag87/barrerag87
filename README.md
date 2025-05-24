@@ -1,6 +1,14 @@
 # ¡Hola! 👋
 
-Bienvenido a mi perfil. Soy Rodrigo Barrera, ingeniero estadístico y doctorando en estadística. Me especializo en inferencia causal, modelos multivariados y desarrollo de herramientas computacionales en R, Python y Stata.
+Soy **Rodrigo Barrera**, ingeniero estadístico y doctorando en estadística. Me especializo en **inferencia causal**, **modelos multivariados** y desarrollo de **herramientas computacionales** en R, Python y Stata.
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Docente universitario y consultor en estadística aplicada
+- 📊 Apasionado por la visualización, simulación y automatización de análisis estadísticos
+- 🧠 Interesado en métodos modernos de inferencia causal y aprendizaje estadístico
 
 ---
 
@@ -16,16 +24,17 @@ Bienvenido a mi perfil. Soy Rodrigo Barrera, ingeniero estadístico y doctorando
 
 ---
 
+## 🛠️ Tecnologías que uso frecuentemente
 
-## 🛠️ Tecnologías principales
-
-- R & R Shiny
-- Python (Pandas, Scikit-learn, Tkinter)
-- Stata y MATA
-- SQL (MySQL, PostgreSQL)
-- LaTeX (Beamer, TikZ)
-- Git y GitHub Actions
+- **R**: tidyverse, Shiny, ggplot2, dplyr
+- **Python**: pandas, scikit-learn, matplotlib, Tkinter
+- **Stata / MATA**: regresión, PSM, modelos multivariados
+- **Bases de datos**: MySQL, PostgreSQL
+- **Documentación**: LaTeX (Beamer, TikZ), RMarkdown
+- **Control de versiones**: Git y GitHub Actions
 
 ---
 
+## 🐍 Actividad reciente
 
+![Snake animation](https://raw.githubusercontent.com/barrerag87/barrerag87/output/github-contribution-grid-snake.svg)
