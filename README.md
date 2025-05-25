@@ -22,7 +22,7 @@ Me puedes escribir a ribg1987 [at] proton.me
 
 ## 📈 Estadísticas generales
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barrerag87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barrerag87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
 
 ---
 
