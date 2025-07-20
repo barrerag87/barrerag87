@@ -4,6 +4,8 @@ Soy **Rodrigo Barrera**, ingeniero estadístico, magister en filosofía de las c
 
 Me puedes escribir a ribg1987 [at] proton.me
 
+El conocimiento debe ser de libre acceso, así que puedes usar toda el material que encontrarás acá. Si lo usas, evalúa compartir tu material y así todos nos beneficiamos.
+
 ---
 
 ## 📊 Lenguajes más usados
